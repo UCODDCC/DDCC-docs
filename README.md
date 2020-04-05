@@ -1,1 +1,1 @@
-# [Documnetation Here](https://github.com/UCODDCC/DDCC-docs/wiki)
+# [Documentation Here](https://github.com/UCODDCC/DDCC-docs/wiki)
